@@ -1,0 +1,17 @@
+.header {
+    background-color: #efefef;
+    color: #0000ff;
+    font-size: xx-large;
+}
+
+.sider {
+    background-color: #efefef;
+}
+
+.content {
+    padding: 3px;
+}
+
+img {
+    padding: 3px;
+}
