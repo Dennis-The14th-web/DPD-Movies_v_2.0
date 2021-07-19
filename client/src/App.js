@@ -6,7 +6,7 @@ import AntDComponent from './components/AntDComponent';
 function App() {
 
   return (
-    <div className="App">
+    <div className="App" style={{ background: "#efefef" }}>
       <AntDComponent />
     </div>
   );
